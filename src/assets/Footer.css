@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-main {
+    background-color: #031B34;
+    color: #fff;
+    height: 220px;
+    padding-top: 10px;
+}
+
+.footer-main h2 {
+    color: #AE67FA;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+}
+
+.span-future {
+    color: #FF8A71;
+}
+
+.footer-logo {
+    padding-left: 120px;
+    padding-top: 30px;
+}
+
+.footer-logo p {
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-logo h3 {
+    font-weight: 900;
+}
+
+.footer-section {
+    display: flex;
+}
+
+.links {
+    padding-left: 120px;
+    padding-top: 30px;
+}
+
+.links p:hover {
+    text-decoration: underline;
+}
+
+.links a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.links a:hover {
+    color: #AE67FA;
+}
+
+.company {
+    padding-left: 120px;
+    padding-top: 30px;
+}
+
+.company p:hover {
+    text-decoration: underline;
+}
+
+.company a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.company a:hover {
+    color: #FF4820;
+}
+
+.get-in-touch {
+    padding-left: 120px;
+    padding-top: 30px;
+}
+
+.get-in-touch p {
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.get-in-touch .touch:hover {
+    text-decoration: underline;
+}
